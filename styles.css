@@ -2,10 +2,27 @@ body,
 .preso,
 .slide {
   background: #000;
-  color: #9f9;
+  color: #6f9;
+  font-family: Helvetica, sans;
+}
+
+.slide .content {
+  margin-top: 0;
 }
 
 h1 {
-  color: #96c;
+  color: #99c;
+  padding-bottom: 10px;
+  border-bottom: 5px solid #99c;
+  text-align: right;
+}
+
+p {
+  font-size: 300%;
+  text-align: center;
+  width: 80%;
+  margin: 90px auto;
+  height: 650px;
+  line-height: 1.3em;
 }
 
