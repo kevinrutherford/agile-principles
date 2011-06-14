@@ -83,3 +83,50 @@ At regular intervals, the team reflects on how
 to become more effective, then tunes and adjusts 
 its behavior accordingly.
 
+!SLIDE
+# summary
+
+<table>
+<tr>
+<td>
+<h3> ROI </h3>
+<ul>
+<li> satisfied customer </li>
+<li> frequent delivery </li>
+<li> customer steers </li>
+<li> prioritise value </li>
+</ul>
+</td>
+
+<td>
+<h3> team game </h3>
+<ul>
+<li> trust people </li>
+<li> facilitate, don't control </li>
+<li> maximise communication </li>
+<li> sustainable pace </li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>
+<h3> adaptability </h3>
+<ul>
+<li> harness change </li>
+<li> emergent design </li>
+<li> seek feedback </li>
+</ul>
+</td>
+
+<td>
+<h3> quality </h3>
+<ul>
+<li> eliminate work </li>
+<li> technical excellence </li>
+<li> improve continuously </li>
+</ul>
+</td>
+</tr>
+</table>
+

@@ -18,6 +18,12 @@ h1 {
   text-align: right;
 }
 
+h3 {
+  font-size: 250%;
+  color: #99c;
+  text-align: left;
+}
+
 p {
   font-size: 300%;
   text-align: center;
@@ -26,4 +32,13 @@ p {
   height: 650px;
   line-height: 1.3em;
 }
+
+table ul {
+  font-size: 200%;
+  list-style: square;
+  padding-left: 1.3em;
+}
+  td {
+    padding: 25px 50px 75px 50px;
+  }
 
