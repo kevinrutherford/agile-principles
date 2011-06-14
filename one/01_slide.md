@@ -67,8 +67,8 @@ and good design enhances agility.
 !SLIDE
 # principle #10
 
-Simplicity--the art of maximizing the amount 
-of work not done--is essential.
+Simplicity -- the art of maximizing the amount 
+of work not done -- is essential.
 
 !SLIDE
 # principle #11
@@ -82,3 +82,4 @@ emerge from self-organizing teams.
 At regular intervals, the team reflects on how 
 to become more effective, then tunes and adjusts 
 its behavior accordingly.
+
